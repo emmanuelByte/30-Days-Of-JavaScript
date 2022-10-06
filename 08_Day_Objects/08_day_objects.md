@@ -491,7 +491,8 @@ console.log(copyPerson.hasOwnProperty('score'))
        isLoggedIn: false,
        points: 40
      }
-   }```
+   } 
+   ```
 
 1. Find people who are MERN stack developer from the users object
 1. Set your name in the users object without modifying the original users object
